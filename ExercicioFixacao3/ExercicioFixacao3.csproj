@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\milah\source\repos\Course\TextFile1.txt" Link="TextFile1.txt" />
+  </ItemGroup>
+
 </Project>
