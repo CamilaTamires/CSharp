@@ -16,8 +16,6 @@ namespace Course
             area = pi * (raio*raio);
             Console.WriteLine($" A area é {area:F4}");
 
-
-
         }
     }
 }
