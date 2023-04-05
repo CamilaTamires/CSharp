@@ -1,5 +1,4 @@
-
-### Hi there 👋 Evolução meu aprendizado C#
+ Evolução meu aprendizado C#
 
 <!--
 Here are some ideas to get you started:
